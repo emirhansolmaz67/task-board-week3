@@ -15,6 +15,7 @@ lecture example, title: undefined
 live title: delectus aut autem
 live done: undefined
 Why did TypeScript allow this?
+ Type assertions override the type checker at compile time without altering actual runtime data.
 
 ## typecheck
 
