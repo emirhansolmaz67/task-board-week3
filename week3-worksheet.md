@@ -1,4 +1,4 @@
-# Week 2 Lab Worksheet
+# Week 3 Lab Worksheet
 
 Name: Emirhan Solmaz
 Program: Software Engineering
