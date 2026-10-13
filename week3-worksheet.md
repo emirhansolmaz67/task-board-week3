@@ -3,6 +3,7 @@
 Name: Emirhan Solmaz
 Program: Software Engineering
 Level I aimed for today: Core
+git repository linkl: https://github.com/emirhansolmaz67/task-board-week3
 
 ## Before you run the lie
 
